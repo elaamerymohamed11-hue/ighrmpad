@@ -1,0 +1,6 @@
+{
+  "appId": "com.ighrem.scorepad",
+  "appName": "Ighrem Scorepad",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
